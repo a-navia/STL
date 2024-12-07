@@ -12,7 +12,8 @@ Ejercicio 3: Relación entre clase y espacio de nombres Define una clase "Círcu
 Ejercicio 4: Declaración de subespacios de nombres Crea un espacio de nombres "Ciencia" que contenga un subespacio de nombres "Física". En "Física", define una constante para la velocidad de la luz y una función para calcular la energía a partir de la masa (E=mc^2). Utiliza la constante y la función desde la función main.
 
 Ejercicio 5: Presentación de la STL Escribe un programa que utilice al menos tres diferentes contenedores de la STL (por ejemplo, vector, map y set). Para cada contenedor, realiza al menos una operación (como agregar elementos, eliminar elementos o buscar elementos).
-Propuesta de Solución:
+
+### Propuesta de Solución:
 
 Ejercicio 1: Utilización completa de un espacio de nombres
 
