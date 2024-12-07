@@ -65,7 +65,7 @@ int main() {
 Ejercicio 3: Relación entre clase y espacio de nombres
 
 En un archivo .cpp:
-
+```
 
 namespace Geometria {
     class Circulo {
@@ -92,7 +92,7 @@ int main() {
 Ejercicio 4: Declaración de subespacios de nombres
 
 En un archivo .cpp:
-
+```
 
 namespace Ciencia {
     namespace Fisica {
