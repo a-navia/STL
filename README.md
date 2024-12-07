@@ -16,7 +16,7 @@ Propuesta de Solución:
 Ejercicio 1: Utilización completa de un espacio de nombres
 
 En un archivo .cpp:
-
+```
 
 namespace Matematicas {
     int suma(int a, int b) {
@@ -32,9 +32,9 @@ int main() {
     std::cout << "Resta: " << Matematicas::resta(5, 3) << std::endl;
     return 0;
 }
-
+```
 Ejercicio 2: Espacio de nombres repartido entre diferentes archivos
-
+```
 triangulo.cpp:
 
 
@@ -61,7 +61,7 @@ int main() {
     std::cout << "Area del circulo: " << Geometria::calcularAreaCirculo(3) << std::endl;
     return 0;
 }
-
+```
 Ejercicio 3: Relación entre clase y espacio de nombres
 
 En un archivo .cpp:
@@ -88,7 +88,7 @@ int main() {
     std::cout << "Perimetro: " << c.calcularPerimetro() << std::endl;
     return 0;
 }
-
+```
 Ejercicio 4: Declaración de subespacios de nombres
 
 En un archivo .cpp:
@@ -107,11 +107,11 @@ int main() {
     std::cout << "Energia: " << Ciencia::Fisica::calcularEnergia(10) << std::endl;
     return 0;
 }
-
+```
 Ejercicio 5: Presentación de la STL
 
 En un archivo .cpp:
-
+```
 
 #include <vector>
 #include <map>
@@ -134,3 +134,4 @@ int main() {
 
     return 0;
 }
+```
